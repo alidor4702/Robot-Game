@@ -1,0 +1,7 @@
+wall,0.0,190.0
+wall,250.0,190.0
+hardrobot,90.0,50.0
+hardrobot,350.0,90.0
+hardrobot,342.4,260.8
+cake,200.0,300.0
+softrobot,100.0,100.0
